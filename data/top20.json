@@ -1,0 +1,944 @@
+[
+  {
+    "code": "110000C005",
+    "name": "大数据管理中心",
+   "pointColor": "#FFFF00",
+    "recieTotalData": 4219474122,
+    "sendSingleData": 0,
+    "sendTotalData": 1326820226,
+    "targetNodes": [
+      {
+        "code": "110000C056",
+        "name": "市城管执法局",
+        "recieTotalData": 0,
+        "sendSingleData": 21056,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 458,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 392877,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C072",
+        "name": "市残联",
+        "recieTotalData": 0,
+        "sendSingleData": 33563,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C073",
+        "name": "住房公积金管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 20245494,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C010",
+        "name": "市民政局",
+        "recieTotalData": 0,
+        "sendSingleData": 17158215,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 5546294343
+  },
+  {
+    "code": "110000C066",
+    "name": "市应急办",
+    "recieTotalData": 32256216450,
+    "sendSingleData": 0,
+    "sendTotalData": 0,
+    "targetNodes": [],
+    "totalCount": 32256214308
+  },
+  {
+    "code": "110000C056",
+    "name": "市城管执法局",
+    "recieTotalData": 172321693,
+    "sendSingleData": 0,
+    "sendTotalData": 18867324375,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 332840145,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 13652982002,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C033",
+        "name": "市安全监管局",
+        "recieTotalData": 0,
+        "sendSingleData": 4719767794,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 84501552,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 8264699,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C092",
+        "name": "市规划国土委",
+        "recieTotalData": 0,
+        "sendSingleData": 2947191,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110102",
+        "name": "西城区",
+        "recieTotalData": 0,
+        "sendSingleData": 32266171,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 19039644748
+  },
+  {
+    "code": "110000C024",
+    "name": "市卫生局",
+    "recieTotalData": 0,
+    "sendSingleData": 0,
+    "sendTotalData": 16591611484,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 265933450,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 12275069745,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C033",
+        "name": "市安全监管局",
+        "recieTotalData": 0,
+        "sendSingleData": 4050608289,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 16591610712
+  },
+  {
+    "code": "110000C033",
+    "name": "市安全监管局",
+    "recieTotalData": 9236643556,
+    "sendSingleData": 0,
+    "sendTotalData": 876913826,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 455846430,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 420501729,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 10113556502
+  },
+  {
+    "code": "110000C085007",
+    "name": "市红十字会",
+    "recieTotalData": 2463577754,
+    "sendSingleData": 0,
+    "sendTotalData": 2463577754,
+    "targetNodes": [],
+    "totalCount": 4927155508
+  },
+  {
+    "code": "110000C059",
+    "name": "市气象局",
+    "recieTotalData": 172991307,
+    "sendSingleData": 0,
+    "sendTotalData": 4213025585,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 372143921,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 3354094291,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 171908672,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C019",
+        "name": "市交通委",
+        "recieTotalData": 0,
+        "sendSingleData": 314139364,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110107",
+        "name": "石景山区",
+        "recieTotalData": 0,
+        "sendSingleData": 297168,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 4386016892
+  },
+  {
+    "code": "110000C007",
+    "name": "市公安局",
+    "recieTotalData": 331581916,
+    "sendSingleData": 0,
+    "sendTotalData": 3062916192,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 2004990,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 2448342143,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C033",
+        "name": "市安全监管局",
+        "recieTotalData": 0,
+        "sendSingleData": 462548499,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 10069,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C072",
+        "name": "市残联",
+        "recieTotalData": 0,
+        "sendSingleData": 131389714,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C019",
+        "name": "市交通委",
+        "recieTotalData": 0,
+        "sendSingleData": 395843,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C010",
+        "name": "市民政局",
+        "recieTotalData": 0,
+        "sendSingleData": 338,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 3394497346
+  },
+  {
+    "code": "110000C017",
+    "name": "市住房城乡建设委",
+    "recieTotalData": 145590729,
+    "sendSingleData": 0,
+    "sendTotalData": 1571539857,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 932063675,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C056",
+        "name": "市城管执法局",
+        "recieTotalData": 0,
+        "sendSingleData": 32068145,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C059",
+        "name": "市气象局",
+        "recieTotalData": 0,
+        "sendSingleData": 172991307,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 5232557,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C092",
+        "name": "市规划国土委",
+        "recieTotalData": 0,
+        "sendSingleData": 25342152,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C073",
+        "name": "住房公积金管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 82230502,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C010",
+        "name": "市民政局",
+        "recieTotalData": 0,
+        "sendSingleData": 9374,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C030",
+        "name": "市地税局",
+        "recieTotalData": 0,
+        "sendSingleData": 243181279,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110102",
+        "name": "西城区",
+        "recieTotalData": 0,
+        "sendSingleData": 44590252,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C015",
+        "name": "市环保局",
+        "recieTotalData": 0,
+        "sendSingleData": 15667901,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110107",
+        "name": "石景山区",
+        "recieTotalData": 0,
+        "sendSingleData": 745990,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 1717130586
+  },
+  {
+    "code": "110000C072",
+    "name": "市残联",
+    "recieTotalData": 201258496,
+    "sendSingleData": 0,
+    "sendTotalData": 254205345,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 225075421,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 2454507,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C019",
+        "name": "市交通委",
+        "recieTotalData": 0,
+        "sendSingleData": 4625528,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C010",
+        "name": "市民政局",
+        "recieTotalData": 0,
+        "sendSingleData": 22049889,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 455463841
+  },
+  {
+    "code": "110000C019",
+    "name": "市交通委",
+    "recieTotalData": 326537263,
+    "sendSingleData": 0,
+    "sendTotalData": 101871989,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 45395725,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 342158,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 174621,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C072",
+        "name": "市残联",
+        "recieTotalData": 0,
+        "sendSingleData": 841,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C030",
+        "name": "市地税局",
+        "recieTotalData": 0,
+        "sendSingleData": 4611,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C032",
+        "name": "市质监局",
+        "recieTotalData": 0,
+        "sendSingleData": 2587,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110107",
+        "name": "石景山区",
+        "recieTotalData": 0,
+        "sendSingleData": 53028547,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 428409252
+  },
+  {
+    "code": "110000C092",
+    "name": "市规划国土委",
+    "recieTotalData": 36772701,
+    "sendSingleData": 0,
+    "sendTotalData": 390029824,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 1262485,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C056",
+        "name": "市城管执法局",
+        "recieTotalData": 0,
+        "sendSingleData": 112501531,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 132017693,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C030",
+        "name": "市地税局",
+        "recieTotalData": 0,
+        "sendSingleData": 24143061,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110102",
+        "name": "西城区",
+        "recieTotalData": 0,
+        "sendSingleData": 34107839,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C021",
+        "name": "市水务局",
+        "recieTotalData": 0,
+        "sendSingleData": 21236827,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110107",
+        "name": "石景山区",
+        "recieTotalData": 0,
+        "sendSingleData": 2002474,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 426802525
+  },
+  {
+    "code": "110000C073",
+    "name": "住房公积金管理中心",
+    "recieTotalData": 118518411,
+    "sendSingleData": 0,
+    "sendTotalData": 206301059,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 132976683,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 436302,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C010",
+        "name": "市民政局",
+        "recieTotalData": 0,
+        "sendSingleData": 72888074,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 324819470
+  },
+  {
+    "code": "110000C010",
+    "name": "市民政局",
+    "recieTotalData": 114706554,
+    "sendSingleData": 0,
+    "sendTotalData": 199511579,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 51094693,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 750773,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 6110,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C072",
+        "name": "市残联",
+        "recieTotalData": 0,
+        "sendSingleData": 69834378,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C073",
+        "name": "住房公积金管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 16042415,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C030",
+        "name": "市地税局",
+        "recieTotalData": 0,
+        "sendSingleData": 102,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110102",
+        "name": "西城区",
+        "recieTotalData": 0,
+        "sendSingleData": 42496057,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110107",
+        "name": "石景山区",
+        "recieTotalData": 0,
+        "sendSingleData": 6237158,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 314218133
+  },
+  {
+    "code": "110000C030",
+    "name": "市地税局",
+    "recieTotalData": 267329053,
+    "sendSingleData": 0,
+    "sendTotalData": 2335433,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 1287782,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 5729,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C019",
+        "name": "市交通委",
+        "recieTotalData": 0,
+        "sendSingleData": 4616,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C092",
+        "name": "市规划国土委",
+        "recieTotalData": 0,
+        "sendSingleData": 978260,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C010",
+        "name": "市民政局",
+        "recieTotalData": 0,
+        "sendSingleData": 111,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 269664486
+  },
+  {
+    "code": "110000C032",
+    "name": "市质监局",
+    "recieTotalData": 12891,
+    "sendSingleData": 0,
+    "sendTotalData": 199399432,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 85742246,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 850010,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C033",
+        "name": "市安全监管局",
+        "recieTotalData": 0,
+        "sendSingleData": 3718734,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C007",
+        "name": "市公安局",
+        "recieTotalData": 0,
+        "sendSingleData": 795354,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C017",
+        "name": "市住房城乡建设委",
+        "recieTotalData": 0,
+        "sendSingleData": 4432672,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C019",
+        "name": "市交通委",
+        "recieTotalData": 0,
+        "sendSingleData": 4452159,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C092",
+        "name": "市规划国土委",
+        "recieTotalData": 0,
+        "sendSingleData": 1815652,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110102",
+        "name": "西城区",
+        "recieTotalData": 0,
+        "sendSingleData": 3261941,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C015",
+        "name": "市环保局",
+        "recieTotalData": 0,
+        "sendSingleData": 2920961,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110107",
+        "name": "石景山区",
+        "recieTotalData": 0,
+        "sendSingleData": 1424353,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 199412323
+  },
+  {
+    "code": "110102",
+    "name": "西城区",
+    "recieTotalData": 156722263,
+    "sendSingleData": 0,
+    "sendTotalData": 673,
+    "targetNodes": [],
+    "totalCount": 156722936
+  },
+  {
+    "code": "110000C015",
+    "name": "市环保局",
+    "recieTotalData": 18588863,
+    "sendSingleData": 0,
+    "sendTotalData": 103750758,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 17365,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 99583042,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 122339621
+  },
+  {
+    "code": "110000C021",
+    "name": "市水务局",
+    "recieTotalData": 21313810,
+    "sendSingleData": 0,
+    "sendTotalData": 70173781,
+    "targetNodes": [
+      {
+        "code": "110000C005",
+        "name": "大数据管理中心",
+        "recieTotalData": 0,
+        "sendSingleData": 24767673,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C066",
+        "name": "市应急办",
+        "recieTotalData": 0,
+        "sendSingleData": 4451979,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C056",
+        "name": "市城管执法局",
+        "recieTotalData": 0,
+        "sendSingleData": 27730761,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C019",
+        "name": "市交通委",
+        "recieTotalData": 0,
+        "sendSingleData": 2907263,
+        "sendTotalData": 0,
+        "totalCount": 0
+      },
+      {
+        "code": "110000C092",
+        "name": "市规划国土委",
+        "recieTotalData": 0,
+        "sendSingleData": 4288639,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 91487591
+  },
+  {
+    "code": "110107",
+    "name": "石景山区",
+    "recieTotalData": 63739631,
+    "sendSingleData": 0,
+    "sendTotalData": 2546726,
+    "targetNodes": [
+      {
+        "code": "110000C010",
+        "name": "市民政局",
+        "recieTotalData": 0,
+        "sendSingleData": 2546699,
+        "sendTotalData": 0,
+        "totalCount": 0
+      }
+    ],
+    "totalCount": 66286357
+  }
+]

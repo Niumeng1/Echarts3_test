@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="../js/echarts.js"></script>
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main" style="width: 800px;height:800px;"></div>
+<script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('main'));
+
+    // 指定图表的配置项和数据
+    var option = {
+        title: {
+            text: '近3个月国家红黑名单数据量'
+        },
+        tooltip: {
+            trigger: 'axis'
+        },
+        legend: {
+            x:'center',
+            y:'bottom',
+            data:['黑名单','红名单']
+        },
+        grid: {
+            left: '3%',
+            right: '4%',
+            bottom: '3%',
+            containLabel: true
+        },
+        toolbox: {
+            feature: {
+                saveAsImage: {}
+            }
+        },
+        xAxis: {
+            type: 'category',
+            boundaryGap: false,
+            data: ['6月4日','6月11日','6月18日','6月25日','7月3日','7月10日','7月17日',
+                '7月24日','7月31日','8月7日','8月14日','8月21日','8月28日']
+        },
+        yAxis: {
+            type: 'value'
+        },
+        series: [
+            {
+                name:'黑名单',
+                type:'line',
+                stack: '黑名单数据量',
+                data:[
+                    1082345,1082345,1087214,1087214,1088575,	1088575	,1153129,1153129,	1165308,1180937,1208912,	1208912	,						1202797
+
+                ]
+            },
+            {
+                name:'红名单',
+                type:'line',
+                stack: '红名单数据量',
+                data:[
+                    2314845,2314845,2314838,2314838,2314836,2314836,2314836,2314836,2440222,2401967,2440260,2440260,2324173
+                ]
+            },
+
+
+        ]
+    };
+
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart.setOption(option);
+</script>
+</body>
+</html>

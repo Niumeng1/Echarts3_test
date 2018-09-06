@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<canvas id="a"></canvas>
+<script>
+    var abcArr = [58,78,21,254,143,32,56,78,96,213,74,61,73,84,19,66,45,67,81,137,148,159];
+    var canvas = document.getElementById("a");
+    var context = canvas.getContext("2d");
+    //设置对象起始点和终点
+    for(var i =0;i<abcArr.length;i=i+2){
+        if(i==0){
+            context.moveTo(abcArr[i],abcArr[i+1]);
+        }
+        context.lineTo(abcArr[i],abcArr[i+1]);
+    }
+
+
+    //设置样式
+    context.lineWidth = 2;
+    context.strokeStyle = "#F5270B";
+    //绘制
+    context.stroke();
+</script>
+</body>
+</html>
